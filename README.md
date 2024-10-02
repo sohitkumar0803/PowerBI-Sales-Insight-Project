@@ -1,6 +1,6 @@
 ### PowerBI Sales Insight Project
 
-**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiNzI3MjllYjctOGVmNS00ZTNjLWIyMTAtYTA0MGJiYWQ2MTIxIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNzI3MjllYjctOGVmNS00ZTNjLWIyMTAtYTA0MGJiYWQ2MTIxIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
 
 **Description:**
 Developed an interactive PowerBI dashboard to analyze and visualize sales insights for a business. The dashboard includes:
